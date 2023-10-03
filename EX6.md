@@ -41,7 +41,7 @@ end;
 ```
 
 ### Output:
-![Uploading image.png…]()
+![image](https://github.com/gpavana/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/118787343/5ad1e6b8-cb77-4f0c-bbb7-401baee6dc28)
 
 ### Result:
 Thus a cursor using PL/SQL is created successfully.
